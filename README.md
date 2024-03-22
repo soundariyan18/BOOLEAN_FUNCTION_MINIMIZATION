@@ -56,15 +56,18 @@ endmodule
 ```
 ## RTL realization:
 
-![alt text](digiexp2.png)
+![image](https://github.com/soundariyan18/BOOLEAN_FUNCTION_MINIMIZATION/assets/119393307/cbad0ebc-ada5-4df8-bf6b-7cd79ea21902)
+
 
 ## Truthtable:
 
-![alt text](<digi exp 22.png>)
+![image](https://github.com/soundariyan18/BOOLEAN_FUNCTION_MINIMIZATION/assets/119393307/fe446241-757c-4e7d-98ba-8fecfab7c320)
+
 
 ## Output:
 
-![alt text](<Screenshot 2024-03-15 144224.png>)
+![image](https://github.com/soundariyan18/BOOLEAN_FUNCTION_MINIMIZATION/assets/119393307/1b88361c-9811-4aed-92f8-d9aea23607ab)
+
 
 ## Result:
 
